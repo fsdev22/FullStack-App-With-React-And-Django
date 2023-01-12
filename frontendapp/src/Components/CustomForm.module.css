@@ -1,0 +1,12 @@
+.customform{
+    display: flex;
+    flex-direction: column;
+    margin:1%
+}
+.inputFields{
+    margin-top: 1% !important;
+   
+}
+.heading{
+    text-align: center;
+}
